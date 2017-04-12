@@ -1,0 +1,17 @@
+<ul id="navigation">
+			<a href="@root_path">
+	  			<li>@name</li>
+			</a>
+ 	foreach $root do
+  		if $children do
+	      	<a href="#@slug">	    
+	      		<li>@title</li>
+	      	</a>
+	   	endif
+		if !$children do    
+	    	<a href="#@slug">
+	    		<li>@title</li>
+	    	</a>
+		endif
+  	endforeach
+</ul>

@@ -1,0 +1,22 @@
+<ul id="agenda" class="visible">
+  foreach $root do
+	if $children do
+	  foreach $children do
+		<aside data-slug="@slug">
+			if @conference do
+				@conference
+			endif
+			<div class="first hidden">
+				<p class="date"><strong>@date</strong></p>
+				<p class="schedule">@schedule</p>
+				<p class="place">@place</p>
+			</div>
+			<div class="first hidden">
+				<a href="#@slug" class="title"><b>@title</b></a>
+			</div>
+		</aside>
+	  endforeach
+	endif
+  endforeach
+  <h2 class="hidden">@title</h2>
+</ul>

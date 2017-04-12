@@ -1,0 +1,1007 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Une Saison Graphique - du 5 mai au 27 juin 2014</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="./public/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:300,300italic,400,500' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+    <script src="./public/docs/js/jquery-1.10.2.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/jquery-ui-1.10.4.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/jquery.ui.touch-punch.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/back.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/script.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript"src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxEvOEhzWeXU2Khhg_wIy6WQrfBj2EyzY&sensor=true"></script>
+  </head>
+
+  <body>
+    <div id="containment"></div>
+    <figcaption class="hidden"></figcaption>
+
+    <header>
+      <div id="menu">
+        <h1 id="name">
+          <a href="./">Une Saison Graphique</a>
+        </h1>
+        <ul id="navigation">
+			<a href="./">
+	  			<li>Une Saison Graphique</li>
+			</a>
+ 	  		
+		   
+	    	<a href="#edito">
+	    		<li>Edito</li>
+	    	</a>
+		
+  	  			      	<a href="#expositions">	    
+	      		<li>Expositions</li>
+	      	</a>
+	   	
+		
+  	  			      	<a href="#evenements">	    
+	      		<li>Évenements</li>
+	      	</a>
+	   	
+		
+  	  		
+		   
+	    	<a href="#agenda">
+	    		<li>Agenda</li>
+	    	</a>
+		
+  	  		
+		   
+	    	<a href="#conferences">
+	    		<li>Conférences</li>
+	    	</a>
+		
+  	  		
+		   
+	    	<a href="#venir-au-havre">
+	    		<li>Venir au Havre</li>
+	    	</a>
+		
+  	  		
+		   
+	    	<a href="#credits">
+	    		<li>Crédits</li>
+	    	</a>
+		
+  	  		
+		   
+	    	<a href="#presse">
+	    		<li>Presse</li>
+	    	</a>
+		
+  	
+</ul>
+      </div>
+      <h1 id="edition">du 5 mai au 27 juin 2014</h1>
+    </header>
+
+    <div id="content">
+      <ul class="conferences title visible">
+	<h2 class="hidden">Conférences</h2>
+</ul>
+<ul class="evenements title visible">
+	<h2 class="hidden">Événements</h2>
+</ul>
+<ul class="expositions title visible">
+	<h2 class="hidden">Expositions</h2>
+</ul>
+					<ul id="richard-niessen" class="expositions  conferences  visible" data-title="Richard Niessen">
+	<article>
+		<div class="content hidden">
+			<p>Pour Richard Niessen, les travaux du studio s’inscrivent progressivement dans un dess(e)in plus vaste d’architecture, matériaux délicats préfabriqués qui s’assemblent et s’agencent pour constituer des immeubles, des rues et des quartiers que le public pourra ensuite parcourir et habiter.</p>
+
+<p>Leur approche post-moderne et décorative ouvre une brèche dans les préceptes modernistes en prenant pour référence le courant ornemental des XVIe et XVIIe siècle. A partir d’éléments graphiques patrimoniaux (héraldique, motifs baroques, grilles en fer forgé, etc), ce studio se forge de nouveaux outils, résolument actuels, et montre une maîtrise parfaite des techniques d’impression s’exprimant tout autant dans l’édition, l’affiche que l’installation. Les connexions du design graphique avec l’architecture sont nombreuses aux Pays Bas, depuis les travaux pionniers de Piet Swart (1885-1977). Le concept de maçonnerie typographique, est lui-même emprunté au graphiste et architecte Hendrik Wijdeveld (1885-1987), que Richard Niessen revendique comme une influence importante.</p>
+
+<p><em>Cette invitation dans la ville reconstruite par Auguste Perret, pour investir l’atrium spectaculaire de la bibliothèque universitaire, permet d’approfondir et d’illustrer la relation féconde qui existe entre les deux disciplines.</em></p>
+
+<p>Les installations de Niessen &amp; deVries sont rares en France et constituent pourtant des étapes impor tantes du développement du studio. Ceux qui ont pu découvrir TM-City à la Chapelle des Jésuites de Chaumont en 2007 se souviennent sans doute encore de la force particulière de cette proposition. Pour Le Havre, Richard Niessen reprend les choses là où elles se sont arrêtées avec la TM-City, interrogeant les limites de la capacité d’extension de sa ville. En concevant une installation « satellite » présentant des travaux exclusivement produits depuis cette date, il prolonge sa grille originelle et développe de nouvelles possibilités d’extension pour un jeu infini de construction.</p>
+
+					  <p>
+			  	<a href="http://www.richard-niessen.nl/" target=_blank>http://www.richard-niessen.nl/</a>
+			  			    </br>
+			  	<a href="http://www.esther-de-vries.nl/" target=_blank>http://www.esther-de-vries.nl/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Par son travail fondé sur une utilisation expressive de la typographie et des surfaces d’impression, le studio Niessen &amp; de Vries élabore des images envisagées comme des briques visuelles.</h3>
+
+<h3>Ce matériau sert ensuite à bâtir des installations permettant des créations graphiques en 3 dimensions qui s’appuient sur des productions imprimées en 2 dimensions.</h3>
+</div>
+		
+	</article>
+	<aside>
+		    <div class="third hidden">
+        <p class="mail"><a href="mailto:bu@univ-lehavre.fr" target="_blank">bu@univ-lehavre.fr</a></p>
+    </div>
+
+<div class="first hidden">
+        <b>Conférence</b>
+        <hr/>
+        <p class="schedule">Lundi 5 mai à 18h</p>
+        <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+        <p class="place">Entrée libre</p>
+        </div>
+ 
+<div class="second hidden">
+        <p class="schedule">Entrée libre du lundi au vendredi de 8h30 à 19h et le samedi de 10h à 18h</p>
+    
+        <hr>
+    <p class="info">Visites commentées et renseignements: 02 32 74 44 08</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Du mardi 6 mai au vendredi 27 juin</p>
+    <hr>
+    <p class="place">Bibliothèque universitaire du havre - 25 rue Philippe Lebon</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/10.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/09.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/08.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/07.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/06.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/05.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/04.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/03.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/02.jpg"></a>
+		
+			<a href="#richard-niessen"><img  class="hidden" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/01.jpg"></a>
+		
+		
+		<a href="#richard-niessen"><img  class="thumb visible" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/13.jpg"></a>
+		
+		<a href="#richard-niessen"><img  class="thumb visible" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/12.jpg"></a>
+		
+		<a href="#richard-niessen"><img  class="thumb visible" data-title="Richard Niessen" src="./content/7.expositions/6.richard-niessen/11.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Richard Niessen</h2>
+</ul>
+					<ul id="fanette-mellier" class="expositions  conferences  visible" data-title="Fanette Mellier">
+	<article>
+		<div class="content hidden">
+			<p>Fanette Mellier pour sa participation à la Saison Graphique a décidé de revenir au dessin de caractères, en conférant à chacune des vingt-six lettres de notre alphabet, une ampleur par son empreinte formelle comme dans son incarnation (le papier, l’encre, la pagination, le recto, le verso). La méthodologie de travail que la graphiste a déployé pour contenir la démesure de son projet témoigne de son impératif d’explorer le design graphique comme un champ exhaustif d’expérimentation enserré dans une économie et technologie contemporaines et de restituer la richesse des collaborations. Les lettres seront réalisées par des commanditaires, fournisseurs ou partenaires : l’imprimeur Art &amp; caractère, l’Imprimerie Nationale, Le Lézard Graphique, Fotokino et d’autres Nory, Après-Midi-Lab, Newspaper club... Une lettre sera élaborée au sein de l’école dans l’atelier de Yann Owens.</p>
+
+<p>La Galerie de l’école se transformera en une boîte aux lettres en perpétuelle recomposition, où par endroits, des pangrammes écrits par Vincent Vauchez et mis en scènes par le scénographe Olivier Vadrot « twisteront » avec des espaces où les visiteurs pourront à loisir composer un abécédaire, un pangramme, un mot, une étrangeté éditoriale. L’exposition offre le temps de la manipulation. Pour ses « livres bizarres », comme dans l’espace public, Fanette Mellier a toujours soumis ses typographies au plaisir des jeux de mots et des belles lettres.</p>
+
+<p>L’an passé, la graphiste française, encore en résidence à Rome à la Villa Médicis, libérait un papillon dans les artères linéaires du Havre pour annoncer l’exposition Un Imprimeur, aujourd’hui, elle imagine, avec rigueur et poésie, une immersion dans la matière délirante des mots.</p>
+
+					  <p>
+			  	<a href="http://www.fanettemellier.com/" target=_blank>http://www.fanettemellier.com/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Un alphabet. Vingt-six lettrages, originaux et hétéroclites, matérialisés par vingt-six objets éditoriaux (de différents formats, chacun doté d’une technique d’impression). 26000 lettres-objets.</h3>
+</div>
+		
+	</article>
+	<aside>
+		
+<div class="first hidden">
+        <b>Conférence</b>
+        <hr/>
+        <p class="schedule">Vendredi 9 mai à 17h30</p>
+        <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+        <p class="place">Entrée libre</p>
+        </div>
+ 
+<div class="second hidden">
+        <p class="schedule">Entrée libre du lundi au vendredi, de 14h à 18h</p>
+    
+        <hr>
+    <p class="info">Renseignements: 02 35 53 30 31</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Du mardi 6 mai au vendredi 27 juin</p>
+    <hr>
+    <p class="place">Galerie 65 de l’ESADHaR, École Supérieure d’Art et Design Le Havre-Rouen, 65 rue Demidoff</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#fanette-mellier"><img  class="hidden" data-title="Impression" src="./content/7.expositions/5.fanette-mellier/05.jpg"></a>
+		
+			<a href="#fanette-mellier"><img  class="hidden" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/04.jpg"></a>
+		
+			<a href="#fanette-mellier"><img  class="hidden" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/03.jpg"></a>
+		
+			<a href="#fanette-mellier"><img  class="hidden" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/02.jpg"></a>
+		
+			<a href="#fanette-mellier"><img  class="hidden" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/01.jpg"></a>
+		
+		
+		<a href="#fanette-mellier"><img  class="thumb visible" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/08.jpg"></a>
+		
+		<a href="#fanette-mellier"><img  class="thumb visible" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/07.jpg"></a>
+		
+		<a href="#fanette-mellier"><img  class="thumb visible" data-title="Fanette Mellier" src="./content/7.expositions/5.fanette-mellier/06.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Fanette Mellier</h2>
+</ul>
+					<ul id="diane-boivin" class="expositions  conferences  visible" data-title="Diane Boivin">
+	<article>
+		<div class="content hidden">
+			<p>Diplômée de l’école des Arts Décoratifs de Strasbourg en juin 2012, Diane Boivin a travaillé auprès du graphiste et typographe Pierre Di Sciullo qui a fortement marqué sa sensibilité graphique durant sa formation. Depuis récemment, elle collabore au sein de l’atelier de graphisme Des Signes basé à Paris.</p>
+
+<p><em>La pratique du graphisme de Diane Boivin s’oriente vers la notion de l’OULEPO - ouvroir de lectures potentielles – qu’elle détourne, en référence au mouvement littéraire OULIPO - ouvroir de littérature potentielle.</em> Au lieu d’amener une lecture « coup de poing », instantanée, elle s’efforce au contraire de faire entrer l’unité Temps dans le déchiffrage de l’information. Diane Boivin encode la lecture et propose au lecteur des outils de décodage. Pour cela, elle explore des systèmes typographiques autour de l’imbrication, la superposition et le renversement des lettres.</p>
+
+<p><em>Pour Une Saison Graphique 14, Diane Boivin met à contribution le poète Frank Adebiaye sensible aux contraintes oulipiennes, pour écrire un conte en prose rythmé en 8 « tableaux » selon des règles précises fixées.</em> Diane Boivin affectionne le travail sous des contraintes fortes, où la trame littéraire et la trame typographique ne font plus qu’un, et met au coeur les liens entre la littérature et le graphisme, avec une conviction qu’ils puissent être davantage resserrés.</p>
+
+					  <p>
+			  	<a href="http://www.dianeboivin.eu/" target=_blank>http://www.dianeboivin.eu/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Pour cette nouvelle édition d’Une Saison Graphique, le Service culturel de l’Université invite une graphiste, jeune et émergente : Diane Boivin.</h3>
+</div>
+		
+	</article>
+	<aside>
+		    <div class="third hidden">
+        <p class="mail"><a href="mailto:service.culturel@univ-lehavre.fr" target="_blank">service.culturel@univ-lehavre.fr</a></p>
+    </div>
+
+<div class="first hidden">
+        <b>Conférence</b>
+        <hr/>
+        <p class="schedule">Mardi 6 mai à 17h30</p>
+        <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+        <p class="place">Entrée libre</p>
+        </div>
+ 
+<div class="second hidden">
+        <p class="schedule">Entrée libre du lundi au vendredi de 9h à 17h30</p>
+    
+        <hr>
+    <p class="info">Visites commentées sur RDV</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Du mardi 6 mai au vendredi 27 juin</p>
+    <hr>
+    <p class="place">Galerie de la Maison de l’étudiant, 50 rue Jean-Jacques Rousseau</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#diane-boivin"><img  class="hidden" data-title="Diane Boivin" src="./content/7.expositions/4.diane-boivin/03.jpg"></a>
+		
+			<a href="#diane-boivin"><img  class="hidden" data-title="Diane Boivin" src="./content/7.expositions/4.diane-boivin/02.jpg"></a>
+		
+			<a href="#diane-boivin"><img  class="hidden" data-title="affiche apode couche 1et2" src="./content/7.expositions/4.diane-boivin/01.jpg"></a>
+		
+		
+		<a href="#diane-boivin"><img  class="thumb visible" data-title="Diane Boivin" src="./content/7.expositions/4.diane-boivin/06.jpg"></a>
+		
+		<a href="#diane-boivin"><img  class="thumb visible" data-title="Diane Boivin" src="./content/7.expositions/4.diane-boivin/05.jpg"></a>
+		
+		<a href="#diane-boivin"><img  class="thumb visible" data-title="Diane Boivin" src="./content/7.expositions/4.diane-boivin/04.gif"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Diane Boivin</h2>
+</ul>
+					<ul id="magazine-georges" class="expositions   visible" data-title="Chez Georges">
+	<article>
+		<div class="content hidden">
+			<p>Lancé en 2010 par les Editions Grains de Sel, il stimule la curiosité et revisite les traitements traditionnels des magazines pour enfants. On y retrouve de drôles d’histoires, une mine de jeux et de rubriques-à-brac pour découvrir un métier, apprendre une langue étrangère, rejouer une scène de films ou encore cuisiner, bricoler... Revue trimestrielle sans publicité, Georges présente la fine fleur de l’illustration contemporaine et du graphisme. Georges c’est un graphisme sobre et coloré; des illustrateurs aux univers originaux ; un beau papier offset mat ; de l’humour et du second degré présents partout dans la revue. Georges c’est aussi un pictogramme thématique pour chaque parution. Présent sur la couverture, ce picto donne le ton et sert de fil rouge. Ainsi se sont succédés les numéros Moustache,Valise, Trompette, Eléphant, Lunette, Ampoule, Pomme, Lettre, etc...</p>
+
+<p><em>Entrez de plain-pied dans l’univers graphique de Georges !</em></p>
+
+<p>La première partie de l’exposition invite <em>à entrer dans l’univers contemporain et vintage de l’appartement de Georges.</em> Le jeu et le graphisme s’interpellent autour des meubles de la cuisine à colorier à la craie, de la tapisserie de la chambre à décorer ou encore du mur du salon sur lequel on joue avec l’aide de cartes-lettres.</p>
+
+<p>L’exposition propose ensuite de <em>se plonger dans un magazine en suivant le sommaire d’un numéro : les Histoires, les Jeux et les Rubriques-à-Brac.</em> L’exposition présente les travaux d’une trentaine d’illustrateurs et graphistes ayant participé au magazine depuis le Numéro Moustache Partial 'Tom' not found Schamp, Séverin Millet, Aurélie Guillerey, Marie Novion, Cruschiform, Didier Cornille, Steffie Brocoli, Lily Scratchy, Fabrice Houdry...</p>
+
+<p><em>« Playground posters », des affiches à jouer</em> à retrouver dans différents établissements du réseau Lire au Havre. « Playground posters » est une série d’affiches interactives, sérigraphiées et réalisées par dix illustrateurs ayant collaboré au magazine Georges. Chaque illustrateur propose une affiche à observer pour jouer, retrouver la sortie du labyrinthe, dénicher les 7 différences, chercher l’intrus ou encore assembler les paires...</p>
+
+<p>C’est <em>Stéphanie Lasne,</em> directrice artistique et graphiste attitrée de Georges qui réalise cette année l’affiche pour le réseau Lire au Havre.</p>
+
+					  <p>
+			  	<a href="http://www.magazinegeorges.com/" target=_blank>http://www.magazinegeorges.com/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Le réseau Lire au Havre invite « Georges ». Qui est donc Georges ? Georges, c’est le drôle de magazine des 7-12 ans, graphique, ludique et décalé !</h3>
+</div>
+		
+	</article>
+	<aside>
+		    <div class="third hidden">
+        <p class="mail"><a href="mailto:patricia.courche@lehavre.fr" target="_blank">patricia.courche@lehavre.fr</a></p>
+    </div>
+
+
+<div class="second hidden">
+        <p class="schedule">Entrée libre les mardis et vendredis de 10h à 19h, les mercredis et samedis de 10h à 18h et les jeudis de 12h à 18h.</p>
+    
+        <hr>
+    <p class="info">Visite libre en présence d’un guide conférencier, aux horaires d’ouverture de la bibliothèque. Visites guidées : samedis 17, 24 mai et 14, 28 juin. Réservation préalable pour les visites et ateliers de groupe par mail uniquement:</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Du mardi 6 mai au vendredi 28 juin</p>
+    <hr>
+    <p class="place">Bibliothèque Municipale Armand Salacrou, 17 rue Jules Lecesne</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#magazine-georges"><img  class="hidden" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/04.jpg"></a>
+		
+			<a href="#magazine-georges"><img  class="hidden" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/03.jpg"></a>
+		
+			<a href="#magazine-georges"><img  class="hidden" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/02.jpg"></a>
+		
+			<a href="#magazine-georges"><img  class="hidden" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/01.jpg"></a>
+		
+		
+		<a href="#magazine-georges"><img  class="thumb visible" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/07.jpg"></a>
+		
+		<a href="#magazine-georges"><img  class="thumb visible" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/06.jpg"></a>
+		
+		<a href="#magazine-georges"><img  class="thumb visible" data-title="Chez Georges" src="./content/7.expositions/3.magazine-georges/05.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Chez Georges</h2>
+</ul>
+					<ul id="cest-affiche-pres-de-chez-vous" class="expositions   visible" data-title="C'est affiché près de chez vous">
+	<article>
+		<div class="content hidden">
+			<p><em>L’exposition présente 17 affiches originales créées en France au cours des trois dernières années.</em> Conçue pour voyager, sa présentation est adaptée à la plupart des lieux d’accueil : musées, galeries et centre d’art, écoles, médiathèques, centres culturels. Il fut un temps où la culture française du graphisme n’avait qu’un nom et qu’un support : l’affiche. Être affichiste c’était être grand, seigneur et libre. Sur tous les tons, tous les sujets, de l’image au texte, du populaire à l’excellence. Faire l’affiche à la française permettait à la fois de réaliser son art et de tenir son rôle et son statut dans la société. Chaumont est né de tout cela, une collection d’affiches (anciennes, mais ayant peu servi) dynamis/tée par un festival d’affiches... Il s’agit de pointer les lieux de qualité du graphisme en France, honorer les graphistes et les commanditaires qui les font exister.</p>
+
+<p>Peu identifié du public et des institutions, le graphisme doit se doter d’un outil de reconnaissance et de visibilité comparable à l ‘équerre d’argent pour les architectes et le prix Goncourt pour la littérature.</p>
+
+<p>En contrepoint du Festival international de l’affiche et du graphisme, la sélection française est présentée dans plusieurs lieux, en France. Elle s’inscrit au Havre dans le cadre d’Une Saison Graphique 2014 pour une expérimentation (nécessaire) sur la transmission du graphisme et de ses enjeux. Le lycée Saint-Vincent-de-Paul est le relai pour organiser et présenter cette exposition.</p>
+
+			
+		</div>
+				<div class="lead hidden"><h3>La Direction du graphisme / Ville de Chaumont propose l’exposition « C’est affiché près de chez vous », sélection d’affiches françaises 2013.</h3>
+</div>
+		
+	</article>
+	<aside>
+		
+
+<div class="second hidden">
+        <p class="schedule">Entrée libre du 9 mai au 27 juin</p>
+    
+        <hr>
+    <p class="info">Visites du mardi au samedi de 14h à 18h: 02 35 25 07 18</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Du mardi 6 mai au vendredi 27 juin</p>
+    <hr>
+    <p class="place">Galerie « La Consigne », Parvis de la Gare SNCF, Le Havre</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#cest-affiche-pres-de-chez-vous"><img  class="hidden" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/04.jpg"></a>
+		
+			<a href="#cest-affiche-pres-de-chez-vous"><img  class="hidden" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/03.jpg"></a>
+		
+			<a href="#cest-affiche-pres-de-chez-vous"><img  class="hidden" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/02.jpg"></a>
+		
+			<a href="#cest-affiche-pres-de-chez-vous"><img  class="hidden" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/01.jpg"></a>
+		
+		
+		<a href="#cest-affiche-pres-de-chez-vous"><img  class="thumb visible" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/07.jpg"></a>
+		
+		<a href="#cest-affiche-pres-de-chez-vous"><img  class="thumb visible" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/06.jpg"></a>
+		
+		<a href="#cest-affiche-pres-de-chez-vous"><img  class="thumb visible" data-title="C'est affiché près de chez vous" src="./content/7.expositions/2.cest-affiche-pres-de-chez-vous/05.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">C'est affiché près de chez vous</h2>
+</ul>
+					<ul id="felix-pfaffli" class="expositions   visible" data-title="Felix Pfäffli">
+	<article>
+		<div class="content hidden">
+			<p>Diplômé de l’Université des Sciences et des Arts appliqués de Lucerne en 2010, Felix Pfäffli décide aussitôt de fonder son propre studio. Ses premières commandes lui permettent de développer très vite une parfaite maîtrise des techniques de conception et d’impression étudiées dans le cadre de son diplôme. Passionné par le processus qui conduit à la réalisation, plus que la réalisation elle-même, il a développé en quatre ans une production foisonnante qui semble vouloir explorer en accéléré toutes les possibilités actuelles du design graphique : affiches, animation, design éditorial, typographie, design textiles, etc.</p>
+
+<p><em>Mais ce sont incontestablement ses affiches qui ont retenu l’attention du public et des professionnels dès lors qu’elles ont commencées à être sélectionnées dans les manifestations de graphisme.</em> Par ses jeux à la fois précis et libres autour de formes simplifiées, d’ancrages typographiques et de couleurs tranchées, il parvient, dans des formats souvent réduits, à produire des images simples et économes mais qui frappent le public par une force visuelle et un pouvoir d’attraction singuliers. Ses commanditaires sont principalement des institutions culturelles, des Festivals, mais également la presse écrite spécialisée ou la mode.</p>
+
+<p>Pour le théâtre Südpol de Luzern, un de ses principaux commanditaires, il conçoit un système graphique d’apparence simple et peu flexible. Mais il parvient à déjouer en permanence la rigueur de cette règle par un travail de contraintes et de recherche autour des projets qui le conduisent à produire des visuels dont la liberté formelle permanente forme un contrepoint parfait à la rigueur du cadre défini au départ.</p>
+
+<p>L’exposition réalisée dans le cadre d’Une Saison Graphique 14 s’attachera à présenter au public le processus qui conduit à la conception d’une affiche : les dessins préparatoires et les états intermédiaires à côté des travaux finalisés.</p>
+
+<p>Felix Pfäffli enseigne à la Hochschule Luzern - Design &amp; Kunst depuis 2011. Il est membre de l’Alliance Graphique Internationale (AGI) depuis 2013.</p>
+
+					  <p>
+			  	<a href="http://www.feixen.ch/" target=_blank>http://www.feixen.ch/</a>
+			  			    </br>
+			  	<a href="http://sudpol-plakate.blogspot.fr/" target=_blank>http://sudpol-plakate.blogspot.fr/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Invité du Carré du THV cette année, le jeune designer graphique suisse Felix Pfâffli bénéficie déjà d’une très large reconnaissance internationale, grâce à une production riche et d’une insolente maturité. Une touche de pop dans la tradition suisse.</h3>
+</div>
+		
+	</article>
+	<aside>
+		
+
+<div class="second hidden">
+        <p class="schedule">Entrée libre du mardi au samedi de 12h45 à 18h30, le mercredi de 9h30 à 11h30</p>
+    
+        <hr>
+    <p class="info">Renseignements : 02 35 19 45 74</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Du mardi 6 mai au vendredi 14 juin</p>
+    <hr>
+    <p class="place">Le Carré du Théâtre de l’Hôtel de Ville - Esplanade Jacques Tournant</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#felix-pfaffli"><img  class="hidden" data-title="Felix Pfäffli" src="./content/7.expositions/1.felix-pfaffli/03.jpg"></a>
+		
+			<a href="#felix-pfaffli"><img  class="hidden" data-title="Felix Pfäffli" src="./content/7.expositions/1.felix-pfaffli/02.jpg"></a>
+		
+			<a href="#felix-pfaffli"><img  class="hidden" data-title="Felix Pfäffli" src="./content/7.expositions/1.felix-pfaffli/01.jpg"></a>
+		
+		
+		<a href="#felix-pfaffli"><img  class="thumb visible" data-title="Felix Pfäffli" src="./content/7.expositions/1.felix-pfaffli/06.jpg"></a>
+		
+		<a href="#felix-pfaffli"><img  class="thumb visible" data-title="Felix Pfäffli" src="./content/7.expositions/1.felix-pfaffli/05.jpg"></a>
+		
+		<a href="#felix-pfaffli"><img  class="thumb visible" data-title="Felix Pfäffli" src="./content/7.expositions/1.felix-pfaffli/04.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Felix Pfäffli</h2>
+</ul>
+		
+						<ul id="une-kermesse-graphique" class="evenements   visible" data-title="Une kermesse graphique">
+	<article>
+		<div class="content hidden">
+			<p>Papier Machine invite plusieurs ateliers de jeunes graphistes et artistes qui proposent des interventions ludiques en direction d’un public averti ou non. Les interventions s’organiseront autour des problématiques liées à la fabrication et à l’impression des images.</p>
+
+<p>En parallèle, nous revisiterons les jeux traditionnels de kermesse (chamboul’tout, passe-tête, jeu d’adresse...) afin de réactiver l’imaginaire collectif lié à ce rassemblement populaire et l’inscrire dans un contexte contemporain et créateur de lien social. Un pique-nique ou un goûter (en cours d’élaboration avec l’association Val Soleil) est prévu dans la journée pour permettre à chacun de faire une pause conviviale et gourmande. Par ailleurs, nous installerons un stand/shop regroupant les productions des ateliers invités, qui seront disponibles à la vente.</p>
+
+<p>Organisation : Collectif Papier Machine
+Ateliers et intervenants : Jean-Jacques Tachdjian, StudioBuro, Super Groupe, Le Cagibi, Le Livre Lunatique,Atelier Bingo, Papier Machine.
+Partenariat-médiation avec la classe de MANAA du Lycée Saint-Vincent de Paul
+Partenariat avec les élèves des classes menuiserie/agencement de Yann Louvel, au Lycée Perret, au Havre.
+Conception et réalisation des stands et du décor de la kermesse graphique.</p>
+
+			
+		</div>
+				<div class="lead hidden"><h3>L’association Papier Machine organise une kermesse graphique lors d’Une Saison Graphique 2014, samedi 10 mai, en clôture de la semaine de vernissages qui se tiendront du 5 au 10 mai.</h3>
+</div>
+		
+	</article>
+	<aside>
+		    <div class="third hidden">
+        <p class="mail"><a href="mailto:papiermachine2012@gmail.com" target="_blank">papiermachine2012@gmail.com</a></p>
+    </div>
+
+
+<div class="second hidden">
+        <p class="schedule">Entrée libre de 14h à 19h</p>
+    
+        <hr>
+    <p class="info">06 88 34 85 93</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Samedi 10 mai</p>
+    <hr>
+    <p class="place">Dans les jardins du Fort de Tourneville, rue du 329ème R.I.</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#une-kermesse-graphique"><img  class="hidden" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/04.jpg"></a>
+		
+			<a href="#une-kermesse-graphique"><img  class="hidden" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/03.jpg"></a>
+		
+			<a href="#une-kermesse-graphique"><img  class="hidden" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/02.jpg"></a>
+		
+			<a href="#une-kermesse-graphique"><img  class="hidden" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/01.jpg"></a>
+		
+		
+		<a href="#une-kermesse-graphique"><img  class="thumb visible" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/07.jpg"></a>
+		
+		<a href="#une-kermesse-graphique"><img  class="thumb visible" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/06.jpg"></a>
+		
+		<a href="#une-kermesse-graphique"><img  class="thumb visible" data-title="Une kermesse graphique" src="./content/6.evenements/4.une-kermesse-graphique/05.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Une kermesse graphique</h2>
+</ul>
+					<ul id="le-tetris" class="evenements   visible" data-title="Raster Noton Party">
+	<article>
+		<div class="content hidden">
+			<p>Raster Noton, label allemand emblématique de la scène minimale allemande pose valises et laptops au Tetris. Rares sont les apparitions réunies de Byetone (Olaf Bender, co-fondateur du label) et Kandging Ray, la dernière eu lieu pour les 10 ans du label à la Gaïté Lyrique en 2012.</p>
+
+<p>Une Saison Graphique est le support idéal pour présenter un travail précis et méticuleux tant sur le plan graphique que sonore. Cette apparente austérité rythmique et visuelle renforce la puissance des lives à l’esthétique démesurée. Son et image ne font qu’un, pour le plus grand bonheur de l’auditeur.</p>
+
+					  <p>
+			  	<a href="http://www.letetris.fr/" target=_blank>http://www.letetris.fr/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Concert de Kangding Ray et Byetone.</h3>
+</div>
+		
+	</article>
+	<aside>
+		
+
+<div class="second hidden">
+        <p class="schedule">A partir de 21h</p>
+    
+    
+</div>
+<div class="first hidden">
+    <p class="date">Samedi 10 mai 2014</p>
+    <hr>
+    <p class="place">Le Tetris, Fort de Tourneville, rue du 329ème R.I.</p>  
+</div>
+	</aside>
+		<figure>
+		
+		
+		<a href="#le-tetris"><img  class="thumb visible" data-title="Raster Noton Party" src="./content/6.evenements/3.le-tetris/03.jpg"></a>
+		
+		<a href="#le-tetris"><img  class="thumb visible" data-title="Raster Noton Party" src="./content/6.evenements/3.le-tetris/02.jpg"></a>
+		
+		<a href="#le-tetris"><img  class="thumb visible" data-title="Raster Noton Party" src="./content/6.evenements/3.le-tetris/01.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Raster Noton Party</h2>
+</ul>
+					<ul id="le-phare-anime-sa-facade" class="evenements   visible" data-title="Le Phare anime sa façade">
+	<article>
+		<div class="content hidden">
+			<p>Œuvre pérenne conçue par Anette Lenz à l’origine du projet artistique et Nicolas Galinotti, concepteur du dispositif numérique, cette nouvelle façade confère au Phare une visibilité accrue dans l’espace urbain ainsi qu’une identité graphique affirmée.</p>
+
+<p>« Le Phare, signe lumineux qui rayonne au lointain, a inspiré mon approche pour l’ensemble des éléments de son identité graphique. Ce projet a été rendu possible grâce à la confiance et la complicité ar tistique d’Emmanuelle Vo-Dinh et Solenne Racapé, ainsi qu’à l’ensemble de l’équipe dynamique du Phare.</p>
+
+<p>Le graphisme, à mon sens, est un regard, une approche, une lecture conceptuelle appliquée. La façade est du graphisme en espace. Le challenge était de créer un signe fort, expérimental, en introduisant des dispositifs numériques novateurs pour un jeu de mouvement et d’éclairage subtils.</p>
+
+<p>Cette réalisation s’inscrit dans la continuité de l’identité du Phare. Je suis heureuse d’investir ainsi les différents supports de communication du Centre Chorégraphique National du Havre Haute-Normandie. Que ce projet prenne place au Havre n’est pas un hasard. Depuis plusieurs années, la saison graphique initie une sensibilisation au graphisme... »
+-Anette Lenz</p>
+
+<p>La façade du Phare a pu être réalisée grâce à une subvention exceptionnelle de la DRAC Haute-Normandie / Ministère de la culture et de la communication.</p>
+
+					  <p>
+			  	<a href="http://www.lephare-ccn.fr/" target=_blank>http://www.lephare-ccn.fr/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Le Phare, Centre Chorégraphique National du Havre Haute-Normandie, inaugurera sa nouvelle façade le samedi 24 mai 2014 dans le cadre d’Une Saison Graphique 14 !</h3>
+</div>
+		
+	</article>
+	<aside>
+		    <div class="third hidden">
+        <p class="mail"><a href="mailto:contact@lephare-ccn.fr" target="_blank">contact@lephare-ccn.fr</a></p>
+    </div>
+
+
+<div class="second hidden">
+        <p class="schedule">A partir de 18h30</p>
+    
+        <hr>
+    <p class="info">Information et réservation au 02 35 26 23 00 ou par mail</p>
+    
+</div>
+<div class="first hidden">
+    <p class="date">Samedi 24 mai</p>
+    <hr>
+    <p class="place">Le Phare, CCN du Havre Haute-Normandie 30 rue des Briquetiers</p>  
+</div>
+	</aside>
+		<figure>
+		
+		
+		<a href="#le-phare-anime-sa-facade"><img  class="thumb visible" data-title="Le Phare anime sa façade" src="./content/6.evenements/2.le-phare-anime-sa-facade/01.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Le Phare anime sa façade</h2>
+</ul>
+					<ul id="bike-polo" class="evenements   visible" data-title="Bike Polo">
+	<article>
+		<div class="content hidden">
+			<p>Ce sport urbain se pratique sur le bitume, à la différence de son ancêtre le polo-vélo, abonné aux terrains herbeux et champêtres. Il a émergé aux États-Unis depuis une dizaine d’années (selon la légende, il aurait été inventé par les coursiers à vélo new-yorkais) et depuis environ cinq ans en Europe. Cette pratique urbaine, cousine de la scène du pignon fixe, s’est vite constituée une imagerie forte. Graphistes, illustrateurs, photographes, vidéastes - souvent joueurs eux-mêmes - se sont emparés de la diversité des supports et des équipements de ce nouveau sport pour les investir et les personnaliser. L’appel à la créativité individuelle est d’ailleurs une des caractéristiques de ce jeu dont les praticiens peuvent choisir ou élaborer en totale liberté vélo, tenue vestimentaire et maillet.</p>
+
+<p>Pour la saison graphique 2014, le Bike polo show aura lieu, comme l’an dernier, sur l’esplanade la plage.</p>
+
+<p>A partir de 11h, des joueurs, rouennais principalement, joueront lors d’un tournoi. Dans l’après-midi, ils laisseront leur places et prêteront balles et maillets pour que les havrais s’essayent à ce sport !</p>
+
+					  <p>
+			  	<a href="http://www.rouenbikepolo.com/" target=_blank>http://www.rouenbikepolo.com/</a>
+			  
+			  </p>
+		</div>
+				<div class="lead hidden"><h3>Dans le cadre de l’exposition Terrain Dur de Fabrice Houdry et Pierre-Adrien Dracon à la Maison de l’étudiant pour la Saison Graphique 2011, un tournoi, Bike polo Show, avait été organisé sur deux jours en juin sur le parvis de l’université. Moment fort de sport, de partage, de convivialité et de graphisme, il était évident pour les partenaires qu’il fallait renouveler l’expérience.</h3>
+</div>
+		
+	</article>
+	<aside>
+		
+
+<div class="second hidden">
+        <p class="schedule">De 11h à 17h</p>
+    
+    
+</div>
+<div class="first hidden">
+    <p class="date">Samedi 14 juin</p>
+    <hr>
+    <p class="place">Esplanade de la plage du Havre</p>  
+</div>
+	</aside>
+		<figure>
+		
+			<a href="#bike-polo"><img  class="hidden" data-title="Bike Polo" src="./content/6.evenements/1.bike-polo/01.jpg"></a>
+		
+		
+		<a href="#bike-polo"><img  class="thumb visible" data-title="Bike Polo" src="./content/6.evenements/1.bike-polo/04.jpg"></a>
+		
+		<a href="#bike-polo"><img  class="thumb visible" data-title="Bike Polo" src="./content/6.evenements/1.bike-polo/03.jpg"></a>
+		
+		<a href="#bike-polo"><img  class="thumb visible" data-title="Bike Polo" src="./content/6.evenements/1.bike-polo/02.jpg"></a>
+		
+	</figure>
+	
+	<h2 class="hidden">Bike Polo</h2>
+</ul>
+		
+	
+	<ul id="agenda" class="visible">
+  	  		<aside data-slug="richard-niessen">
+							<div class="first hidden">
+        <b>Conférence</b>
+        <hr/>
+        <p class="schedule">Lundi 5 mai à 18h</p>
+        <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+        <p class="place">Entrée libre</p>
+        </div>
+
+			
+			<div class="first hidden">
+				<p class="date"><strong>Du mardi 6 mai au vendredi 27 juin</strong></p>
+				<p class="schedule">Entrée libre du lundi au vendredi de 8h30 à 19h et le samedi de 10h à 18h</p>
+				<p class="place">Bibliothèque universitaire du havre - 25 rue Philippe Lebon</p>
+			</div>
+			<div class="first hidden">
+				<a href="#richard-niessen" class="title"><b>Richard Niessen</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="fanette-mellier">
+							<div class="first hidden">
+        <b>Conférence</b>
+        <hr/>
+        <p class="schedule">Vendredi 9 mai à 17h30</p>
+        <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+        <p class="place">Entrée libre</p>
+        </div>
+
+			
+			<div class="first hidden">
+				<p class="date"><strong>Du mardi 6 mai au vendredi 27 juin</strong></p>
+				<p class="schedule">Entrée libre du lundi au vendredi, de 14h à 18h</p>
+				<p class="place">Galerie 65 de l’ESADHaR, École Supérieure d’Art et Design Le Havre-Rouen, 65 rue Demidoff</p>
+			</div>
+			<div class="first hidden">
+				<a href="#fanette-mellier" class="title"><b>Fanette Mellier</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="diane-boivin">
+							<div class="first hidden">
+        <b>Conférence</b>
+        <hr/>
+        <p class="schedule">Mardi 6 mai à 17h30</p>
+        <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+        <p class="place">Entrée libre</p>
+        </div>
+
+			
+			<div class="first hidden">
+				<p class="date"><strong>Du mardi 6 mai au vendredi 27 juin</strong></p>
+				<p class="schedule">Entrée libre du lundi au vendredi de 9h à 17h30</p>
+				<p class="place">Galerie de la Maison de l’étudiant, 50 rue Jean-Jacques Rousseau</p>
+			</div>
+			<div class="first hidden">
+				<a href="#diane-boivin" class="title"><b>Diane Boivin</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="magazine-georges">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Du mardi 6 mai au vendredi 28 juin</strong></p>
+				<p class="schedule">Entrée libre les mardis et vendredis de 10h à 19h, les mercredis et samedis de 10h à 18h et les jeudis de 12h à 18h.</p>
+				<p class="place">Bibliothèque Municipale Armand Salacrou, 17 rue Jules Lecesne</p>
+			</div>
+			<div class="first hidden">
+				<a href="#magazine-georges" class="title"><b>Chez Georges</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="cest-affiche-pres-de-chez-vous">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Du mardi 6 mai au vendredi 27 juin</strong></p>
+				<p class="schedule">Entrée libre du 9 mai au 27 juin</p>
+				<p class="place">Galerie « La Consigne », Parvis de la Gare SNCF, Le Havre</p>
+			</div>
+			<div class="first hidden">
+				<a href="#cest-affiche-pres-de-chez-vous" class="title"><b>C'est affiché près de chez vous</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="felix-pfaffli">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Du mardi 6 mai au vendredi 14 juin</strong></p>
+				<p class="schedule">Entrée libre du mardi au samedi de 12h45 à 18h30, le mercredi de 9h30 à 11h30</p>
+				<p class="place">Le Carré du Théâtre de l’Hôtel de Ville - Esplanade Jacques Tournant</p>
+			</div>
+			<div class="first hidden">
+				<a href="#felix-pfaffli" class="title"><b>Felix Pfäffli</b></a>
+			</div>
+		</aside>
+	  
+		  		<aside data-slug="une-kermesse-graphique">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Samedi 10 mai</strong></p>
+				<p class="schedule">Entrée libre de 14h à 19h</p>
+				<p class="place">Dans les jardins du Fort de Tourneville, rue du 329ème R.I.</p>
+			</div>
+			<div class="first hidden">
+				<a href="#une-kermesse-graphique" class="title"><b>Une kermesse graphique</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="le-tetris">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Samedi 10 mai 2014</strong></p>
+				<p class="schedule">A partir de 21h</p>
+				<p class="place">Le Tetris, Fort de Tourneville, rue du 329ème R.I.</p>
+			</div>
+			<div class="first hidden">
+				<a href="#le-tetris" class="title"><b>Raster Noton Party</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="le-phare-anime-sa-facade">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Samedi 24 mai</strong></p>
+				<p class="schedule">A partir de 18h30</p>
+				<p class="place">Le Phare, CCN du Havre Haute-Normandie 30 rue des Briquetiers</p>
+			</div>
+			<div class="first hidden">
+				<a href="#le-phare-anime-sa-facade" class="title"><b>Le Phare anime sa façade</b></a>
+			</div>
+		</aside>
+	  		<aside data-slug="bike-polo">
+			
+			<div class="first hidden">
+				<p class="date"><strong>Samedi 14 juin</strong></p>
+				<p class="schedule">De 11h à 17h</p>
+				<p class="place">Esplanade de la plage du Havre</p>
+			</div>
+			<div class="first hidden">
+				<a href="#bike-polo" class="title"><b>Bike Polo</b></a>
+			</div>
+		</aside>
+	  
+	
+  <h2 class="hidden">Agenda</h2>
+</ul>
+
+
+	<ul id="edito" class="visible">
+	<article>
+		
+		
+		<div class="content hidden">
+			<h3>Pour sa sixième édition, Une Saison Graphique s’inscrit dans cette année «particulière» :</h3>
+
+<hr>
+
+<p><em>- Des partenaires et des événements nouveaux,</em><br>
+<em>- Une volonté toujours plus forte d’amener le public à être partie prenante de cette programmation,</em> 
+en l’intégrant pleinement dans les projets apportés par les graphistes invités : Fanette Mellier, Diane Boivin, le collectif d’illustrateurs du magazine Georges et les ateliers invités par Papier Machine pour la première édition de la kermesse graphique, qui prendra ses quartiers à Tourneville et entend notamment constituer une proposition d’ouverture de la manifestation vers les habitants avoisinant cet équipement municipal en développement, avec la participation du collectif Studiobüro, de l’atelier Bingo, du cagibi et de Jean-Jacques Tachdjian.</p>
+
+<p><em>- Un attachement à rendre visibles et lisibles les relations existant entre le design graphique et d’autres champs de la création contemporaine :</em> l’architecture avec l’installation originale de Richard Niessen dans l’Atrium de la Bibliothèque Universitaire et son contexte d’intervention : les techniques d’impression pour Fanette Mellier à l’ESADHAR, l’architecture pour Richard Niessen dans l’atrium de la bibliothèque universitaire.</p>
+
+<p><em>- Des événements qui s’attachent à montrer un design graphique en action et en interaction :</em> musique avec la soirée proposée par le Tetris autour du label Raster Noton, danse contemporaine avec l’inauguration de la nouvelle façade du Phare, CNN du Havre Haute-Normandie, conçue par Anette Lenz en collaboration avec Nicolas Galinotti, sport et culture urbaine avec la 4ème édition du toujours très attendu tournoi de Bike Polo.</p>
+
+<p><em>- Un partenariat renouvelé avec le Festival de l’affiche et du graphisme de Chaumont, avec
+le retour de la Sélection française (2013), et la double exposition en vis à vis de Felix Pfäffli au Havre et à Chaumont.</em> Car il faut mesurer que l’un des principaux progrès observés ces dernières années sur la question de la visibilité du graphisme en France provient non seulement de la multiplication des lieux et des temps d’exposition, mais surtout de la mise en réseau des acteurs, par le biais d’échanges, d’initiatives de co-production et / ou d’itinérance largement initiées et soutenues par Chaumont.</p>
+
+<p><em>Venez profiter au Havre d’un printemps ludique et graphique !</em></p>
+
+						<a href="www.graphismeenfrance.fr" target=_blank>www.graphismeenfrance.fr</a>
+				
+		</div>		
+					<div class="lead hidden"><h3>2014, année du graphisme</h3>
+
+<hr>
+
+<p>A l’initiative du Centre National des Arts Plastiques (CNAP) qui fête cette année le 20ème anniversaire de la publication annuelle « Graphisme en France », Une Saison Graphique a été invitée en décembre dernier à exposer une sélection des affiches et des publications produites depuis 2009 par Une Saison Graphique dans le cadre d’une exposition collective installée dans les vitrines du Ministère de la Culture, rue de Valois.<br>
+Inaugurée par Aurélie Filipetti le lundi 13 janvier dernier, cette exposition est présentée à Paris jusqu’au 13 mars 2014.</p>
+
+<p>Tout au long de l’année, les acteurs qui défendent la qualité et l’importance du design graphique dans le champ de la création contemporaine soutiennent par leurs actions et leurs démarches auprès du public, cette initiative pilotée par le Ministère de la Culture, à travers le CNAP.  Des événements : le Festival de l’Affiche et du Graphisme de Chaumont, le Mois du Graphisme d’Echirolles, les rencontres de Lure, et la toute récente Fête du Graphisme, et des lieux permanents : le Musée des arts décoratifs, la Gaieté Lyrique, se relaient et s’unissent pour tisser dans l’hexagone une offre aussi riche et plurielle que l’est la discipline.</p>
+
+<p>Expositions, conférences, colloques et journées d’étude vont se succéder toute l’année, dans un calendrier d’événements qui aura rarement été aussi épais. Cet objet conçu par le studio Building Paris (Benoît Santiard, Guillaume Grall) sera d’ailleurs disponible dans nos différents lieux d’exposition pendant la prochaine Saison.</p>
+</div>
+		
+	</article>
+			<figure>
+			
+			<img class="hidden" data-title="Edito" src="./content/8.edito/01.gif">
+			
+		</figure>
+	
+	<h2 class="hidden">Edito</h2>
+</ul>
+
+	<ul id="venir-au-havre" class="visible">
+	<article>
+		<div class="hidden">
+			<h3>Par la route</h3>
+			<hr>
+			<em>Depuis l’est (Rouen, Paris)</em>
+			<p>L’A13 relie directement Paris au Havre (via Rouen), sinon vous pouvez prendre la N14 jusqu’à Rouen puis la N15 qui arrive au Havre.</p>
+			<em>Depuis l’ouest (Rennes, Nantes)</em>
+			<p>Suivre la direction de Caen (A84) puis du Havre (A29). Après le passage du pont de Normandie (péage 5€), le centre-ville n’est plus qu’à 10 minutes de route.</p>
+			<em>Depuis le nord (Lille)</em>
+			<p>Prendre la direction d’Amiens. À Amiens, vous pouvez choisir de prendre l’A29 qui arrive directement au Havre ou la N29 (Neufchâtel-en-Bray,Yvetot, Le Havre).</p>
+		</div>
+		<div class="hidden">
+			<h3>Se déplacer au Havre</h3>
+			<hr>
+			<p>Le Tramway vous permettra de vous rendre dans les différents lieux d’exposition, même si un parcours à pieds est toujours le moyen le plus simple et agréable pour suivre le parcours proposé.</p> 
+			<p>L’ensemble des expositions est localisé entre le quartier Gare et celui de l’Hôtel de Ville. Un réseau de pistes cyclables vous permettra de vous rendre rapidement à vélo dans les lieux d’exposition.</p>
+		</div>
+		<div class="hidden">
+			<h3>En train</h3>
+			<hr>
+			<p>La Gare du Havre est desservie par les grandes lignes de la SNCF (trains Corail et TGV).</p>
+		</div>
+	</article>
+	<figure>
+		<div id="map-canvas" class="hidden"></div>
+	</figure>
+	<h2 class="hidden">Venir au Havre</h2>
+</ul>
+
+
+	<ul id="credits" class="visible">
+	<aside class="credits">
+		<div class="hidden">
+			<a href="http://graphismeauhavre.tumblr.com" target="_blank">Tumblr</a><br>
+			<a href="http://instagram.com/unesaisongraphique" target="_blank">Instagram</a>
+		</div>
+		<div class="hidden">
+			<a href="http://tinyurl.com/pu7yr3f" target="_blank">Facebook</a><br>
+			<a href="http://twitter.com/Saisongraphique" target="_blank">Twitter</a>
+		</div>
+	</aside>
+	<article>
+		<div class="hidden">
+			<p>Une Saison Graphique bénéficie du soutien de l’Université du Havre, la Ville du Havre, le Conseil Général de Seine-Maritime, le Conseil Régional de Haute-Normandie et l’Etat.</p>
+			<p>Le site web d'Une Saison Graphique utilise le moteur <a href="http://staceyapp.com/" target="_blank">Stacey</a> et les polices de caractères <a href="https://github.com/raphaelbastide/Whois-mono" target="_blank">Whois Mono</a> dessinée par Raphaël Bastide et <a href="https://www.google.com/fonts/specimen/Roboto" target="_blank">Roboto</a> dessinée par Christian Robertson.</p>
+			<p>Ce site à été conçu et développé par <a href="http://www.adrienlapasset.at/" target="_blank">Adrien Lapasset</a> et <a href="http://leo.yt" target="_blank">Léo Ternoir</a>.</p>
+		</div>
+		<div class="hidden">
+			<h3>ESADHaR</h3>
+			<p>Thierry Heynen,Vanina Pinter, Brigitte Monnier, Gilles Acézat.<br>
+			02 35 53 30 31<br>
+			<a href="mailto:esadhar@esadhar.fr" target="_blank">esadhar@esadhar.fr</a><br>
+			<a href="http://esadhar.fr" target="_blan"k>esadhar.fr</a><br><br>
+		
+			<h3>Bibliothèque Universitaire</h3>
+			<p>Pierre-Yves Cachard, Mathilde Poulain<br>
+			02 32 74 44 33<br>
+			<a href="mailto:bu@univ-lehavre.fr" target="_blank">bu@univ-lehavre.fr</a><br>
+			<a href="bu.univ-lehavre.fr" target="_blank">bu.univ-lehavre.fr</a><br><br>
+
+			<h3>Graphisme au Havre</h3>
+			<p>Mariina Bakic, Charlotte Cavé,Virgile Laguin<br>
+			02 35 53 30 31<br>
+			<a href="mailto:mariina@unesaisongraphique.fr" target="_blank">mariina@unesaisongraphique.fr</a><br><br>
+		
+			<h3>Réseau Lire au Havre</h3>
+			<p>service programmation et médiation : Rozenn Le Bris, Nathalie Beaufort-Lamy, Patricia Courché.<br>
+			02 32 740 740<br>
+			<a href="http://lireauhavre.fr" target="_blank">lireauhavre.fr</a><br><br>
+	
+			<h3>Service Culturel de l’Université du Havre</h3>
+			<p>Jacqueline Charles-Rault, Josépha Cuvier, Elisabeth Dezotez, Claire Brassy.<br>
+			02 32 74 42 43<br>
+			<a href="mailto:service.culturel@univ-lehavre.fr" target="_blank">service.culturel@univ-lehavre.fr</a><br><br>
+		
+			<h3>Lycée St Vincent de Paul</h3>
+			<p>Béatrice Berthelot, Philippe Dony.<br>
+			02 35 25 07 18<br>
+			<a href="mailto:st.vincent@online.fr" target="_blank">st.vincent@online.fr</a><br>
+			<a href="http:// lycee-saint-vincent-le-havre.com" target="_blank">lycee-saint-vincent-le-havre.com</a>
+		</div>
+
+	</article>
+	<figure>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.06.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.07.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.08.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.05.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.04.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.02.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.03.jpg"></a>
+		
+			<a href="#credits"><img class="hidden" data-title="Crédits" src="./content/2.credits/HR.01.01.jpg"></a>
+				
+	</figure>
+	<h2 class="hidden">Crédits</h2>
+</ul>
+
+
+	<ul id="presse" class="visible">
+	<aside class="presse">
+		<div class="hidden">
+			<a href="./public/dl/DP_USG14.pdf" target=_blank>Télécharger le dossier de presse</a><br>
+			<a href="./public/dl/CP_USG14.pdf" target=_blank>Télécharger le communiqué de presse</a>
+		</div>	
+	</aside>
+	<article>
+		<div class="hidden">
+			<h3>Affiches en haute résolution</h3>
+			<hr>
+			<a href="./public/dl/fanette_mellier.jpg" target=_blank>Fanette Mellier</a><br>
+			<a href="./public/dl/virgile_laguin_1.jpg" target=_blank>Virgile Laguin (1)</a><br>
+			<a href="./public/dl/virgile_laguin_2.jpg" target=_blank>Virgile Laguin (2)</a><br>
+			<a href="./public/dl/richard_niessen.jpg" target=_blank>Richard Niessen</a><br>
+			<a href="./public/dl/chez_georges.jpg" target=_blank>Chez Georges</a><br>
+			<a href="./public/dl/diane_boivin_1.jpg" target=_blank>Diane Boivin (1)</a><br>
+			<a href="./public/dl/diane_boivin_2.jpg" target=_blank>Diane Boivin (2)</a><br>
+			<a href="./public/dl/felix_pffafli.jpg" target=_blank>Felix Pfäffli</a><br>
+			<a href="./public/dl/delphine_boeschlin.jpg" target=_blank>Delphine Boeschlin</a><br>
+		</div>
+	</article>
+	<h2 class="hidden">Presse</h2>
+</ul>
+
+
+    </div>
+  </body>
+</html>
+<!-- Stacey(2.3.0): 9bf1fbfbe0c0396fb684d4dd6eff6e1d -->

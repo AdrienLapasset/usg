@@ -1,0 +1,39 @@
+title: Richard Niessen
+-
+date: Du mardi 6 mai au vendredi 27 juin
+-
+place: Bibliothèque universitaire du havre - 25 rue Philippe Lebon
+-
+schedule: Entrée libre du lundi au vendredi de 8h30 à 19h et le samedi de 10h à 18h  
+-
+info: Visites commentées et renseignements: 02 32 74 44 08
+-
+mail: bu@univ-lehavre.fr
+-
+conference: <div class="first hidden">
+	    <b>Conférence</b>
+	    <hr/>
+	    <p class="schedule">Lundi 5 mai à 18h</p>
+	    <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+	    <p class="place">Entrée libre</p>
+	    </div>
+- 
+lead: 
+### Par son travail fondé sur une utilisation expressive de la typographie et des surfaces d’impression, le studio Niessen & de Vries élabore des images envisagées comme des briques visuelles. ###      
+
+
+### Ce matériau sert ensuite à bâtir des installations permettant des créations graphiques en 3 dimensions qui s’appuient sur des productions imprimées en 2 dimensions. ### 
+-
+content:
+Pour Richard Niessen, les travaux du studio s’inscrivent progressivement dans un dess(e)in plus vaste d’architecture, matériaux délicats préfabriqués qui s’assemblent et s’agencent pour constituer des immeubles, des rues et des quartiers que le public pourra ensuite parcourir et habiter.
+
+Leur approche post-moderne et décorative ouvre une brèche dans les préceptes modernistes en prenant pour référence le courant ornemental des XVIe et XVIIe siècle. A partir d’éléments graphiques patrimoniaux (héraldique, motifs baroques, grilles en fer forgé, etc), ce studio se forge de nouveaux outils, résolument actuels, et montre une maîtrise parfaite des techniques d’impression s’exprimant tout autant dans l’édition, l’affiche que l’installation. Les connexions du design graphique avec l’architecture sont nombreuses aux Pays Bas, depuis les travaux pionniers de Piet Swart (1885-1977). Le concept de maçonnerie typographique, est lui-même emprunté au graphiste et architecte Hendrik Wijdeveld (1885-1987), que Richard Niessen revendique comme une influence importante. 
+
+*Cette invitation dans la ville reconstruite par Auguste Perret, pour investir l’atrium spectaculaire de la bibliothèque universitaire, permet d’approfondir et d’illustrer la relation féconde qui existe entre les deux disciplines.*
+
+Les installations de Niessen & deVries sont rares en France et constituent pourtant des étapes impor tantes du développement du studio. Ceux qui ont pu découvrir TM-City à la Chapelle des Jésuites de Chaumont en 2007 se souviennent sans doute encore de la force particulière de cette proposition. Pour Le Havre, Richard Niessen reprend les choses là où elles se sont arrêtées avec la TM-City, interrogeant les limites de la capacité d’extension de sa ville. En concevant une installation « satellite » présentant des travaux exclusivement produits depuis cette date, il prolonge sa grille originelle et développe de nouvelles possibilités d’extension pour un jeu infini de construction.
+-
+link: http://www.richard-niessen.nl/ 
+-
+link2: http://www.esther-de-vries.nl/
+-

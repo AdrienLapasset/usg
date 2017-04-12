@@ -1,0 +1,34 @@
+title: Edito
+-
+content:
+### Pour sa sixième édition, Une Saison Graphique s’inscrit dans cette année «particulière» : ###
+
+--------
+
+*- Des partenaires et des événements nouveaux,*  
+*- Une volonté toujours plus forte d’amener le public à être partie prenante de cette programmation,* 
+en l’intégrant pleinement dans les projets apportés par les graphistes invités : Fanette Mellier, Diane Boivin, le collectif d’illustrateurs du magazine Georges et les ateliers invités par Papier Machine pour la première édition de la kermesse graphique, qui prendra ses quartiers à Tourneville et entend notamment constituer une proposition d’ouverture de la manifestation vers les habitants avoisinant cet équipement municipal en développement, avec la participation du collectif Studiobüro, de l’atelier Bingo, du cagibi et de Jean-Jacques Tachdjian.
+
+*- Un attachement à rendre visibles et lisibles les relations existant entre le design graphique et d’autres champs de la création contemporaine :* l’architecture avec l’installation originale de Richard Niessen dans l’Atrium de la Bibliothèque Universitaire et son contexte d’intervention : les techniques d’impression pour Fanette Mellier à l’ESADHAR, l’architecture pour Richard Niessen dans l’atrium de la bibliothèque universitaire.
+
+*- Des événements qui s’attachent à montrer un design graphique en action et en interaction :* musique avec la soirée proposée par le Tetris autour du label Raster Noton, danse contemporaine avec l’inauguration de la nouvelle façade du Phare, CNN du Havre Haute-Normandie, conçue par Anette Lenz en collaboration avec Nicolas Galinotti, sport et culture urbaine avec la 4ème édition du toujours très attendu tournoi de Bike Polo.
+
+*- Un partenariat renouvelé avec le Festival de l’affiche et du graphisme de Chaumont, avec
+le retour de la Sélection française (2013), et la double exposition en vis à vis de Felix Pfäffli au Havre et à Chaumont.* Car il faut mesurer que l’un des principaux progrès observés ces dernières années sur la question de la visibilité du graphisme en France provient non seulement de la multiplication des lieux et des temps d’exposition, mais surtout de la mise en réseau des acteurs, par le biais d’échanges, d’initiatives de co-production et / ou d’itinérance largement initiées et soutenues par Chaumont.
+
+*Venez profiter au Havre d’un printemps ludique et graphique !*
+-
+lead:
+### 2014, année du graphisme ###
+
+-------
+
+A l’initiative du Centre National des Arts Plastiques (CNAP) qui fête cette année le 20ème anniversaire de la publication annuelle « Graphisme en France », Une Saison Graphique a été invitée en décembre dernier à exposer une sélection des affiches et des publications produites depuis 2009 par Une Saison Graphique dans le cadre d’une exposition collective installée dans les vitrines du Ministère de la Culture, rue de Valois.    
+Inaugurée par Aurélie Filipetti le lundi 13 janvier dernier, cette exposition est présentée à Paris jusqu’au 13 mars 2014.
+
+Tout au long de l’année, les acteurs qui défendent la qualité et l’importance du design graphique dans le champ de la création contemporaine soutiennent par leurs actions et leurs démarches auprès du public, cette initiative pilotée par le Ministère de la Culture, à travers le CNAP.  Des événements : le Festival de l’Affiche et du Graphisme de Chaumont, le Mois du Graphisme d’Echirolles, les rencontres de Lure, et la toute récente Fête du Graphisme, et des lieux permanents : le Musée des arts décoratifs, la Gaieté Lyrique, se relaient et s’unissent pour tisser dans l’hexagone une offre aussi riche et plurielle que l’est la discipline.
+
+Expositions, conférences, colloques et journées d’étude vont se succéder toute l’année, dans un calendrier d’événements qui aura rarement été aussi épais. Cet objet conçu par le studio Building Paris (Benoît Santiard, Guillaume Grall) sera d’ailleurs disponible dans nos différents lieux d’exposition pendant la prochaine Saison.
+-
+link: www.graphismeenfrance.fr
+-

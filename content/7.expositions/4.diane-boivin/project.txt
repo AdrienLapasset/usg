@@ -1,0 +1,32 @@
+title: Diane Boivin
+-
+date: Du mardi 6 mai au vendredi 27 juin
+-
+place: Galerie de la Maison de l’étudiant, 50 rue Jean-Jacques Rousseau
+-
+schedule: Entrée libre du lundi au vendredi de 9h à 17h30   
+-
+info: Visites commentées sur RDV
+-
+mail: service.culturel@univ-lehavre.fr
+-
+conference: <div class="first hidden">
+	    <b>Conférence</b>
+	    <hr/>
+	    <p class="schedule">Mardi 6 mai à 17h30</p>
+	    <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+	    <p class="place">Entrée libre</p>
+	    </div>
+-
+lead: 
+### Pour cette nouvelle édition d’Une Saison Graphique, le Service culturel de l’Université invite une graphiste, jeune et émergente : Diane Boivin. ###
+-
+content:
+Diplômée de l’école des Arts Décoratifs de Strasbourg en juin 2012, Diane Boivin a travaillé auprès du graphiste et typographe Pierre Di Sciullo qui a fortement marqué sa sensibilité graphique durant sa formation. Depuis récemment, elle collabore au sein de l’atelier de graphisme Des Signes basé à Paris.
+
+*La pratique du graphisme de Diane Boivin s’oriente vers la notion de l’OULEPO - ouvroir de lectures potentielles – qu’elle détourne, en référence au mouvement littéraire OULIPO - ouvroir de littérature potentielle.* Au lieu d’amener une lecture « coup de poing », instantanée, elle s’efforce au contraire de faire entrer l’unité Temps dans le déchiffrage de l’information. Diane Boivin encode la lecture et propose au lecteur des outils de décodage. Pour cela, elle explore des systèmes typographiques autour de l’imbrication, la superposition et le renversement des lettres.
+
+*Pour Une Saison Graphique 14, Diane Boivin met à contribution le poète Frank Adebiaye sensible aux contraintes oulipiennes, pour écrire un conte en prose rythmé en 8 « tableaux » selon des règles précises fixées.* Diane Boivin affectionne le travail sous des contraintes fortes, où la trame littéraire et la trame typographique ne font plus qu’un, et met au coeur les liens entre la littérature et le graphisme, avec une conviction qu’ils puissent être davantage resserrés.
+-
+link: http://www.dianeboivin.eu/
+-

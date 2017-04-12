@@ -1,0 +1,30 @@
+title: Chez Georges
+-
+date: Du mardi 6 mai au vendredi 28 juin
+-
+place: Bibliothèque Municipale Armand Salacrou, 17 rue Jules Lecesne
+-
+schedule: Entrée libre les mardis et vendredis de 10h à 19h, les mercredis et samedis de 10h à 18h et les jeudis de 12h à 18h.  
+-
+info: Visite libre en présence d’un guide conférencier, aux horaires d’ouverture de la bibliothèque. Visites guidées : samedis 17, 24 mai et 14, 28 juin. Réservation préalable pour les visites et ateliers de groupe par mail uniquement:
+-
+mail: patricia.courche@lehavre.fr
+-
+lead:
+### Le réseau Lire au Havre invite « Georges ». Qui est donc Georges ? Georges, c’est le drôle de magazine des 7-12 ans, graphique, ludique et décalé ! ###
+-
+content: 
+Lancé en 2010 par les Editions Grains de Sel, il stimule la curiosité et revisite les traitements traditionnels des magazines pour enfants. On y retrouve de drôles d’histoires, une mine de jeux et de rubriques-à-brac pour découvrir un métier, apprendre une langue étrangère, rejouer une scène de films ou encore cuisiner, bricoler... Revue trimestrielle sans publicité, Georges présente la fine fleur de l’illustration contemporaine et du graphisme. Georges c’est un graphisme sobre et coloré; des illustrateurs aux univers originaux ; un beau papier offset mat ; de l’humour et du second degré présents partout dans la revue. Georges c’est aussi un pictogramme thématique pour chaque parution. Présent sur la couverture, ce picto donne le ton et sert de fil rouge. Ainsi se sont succédés les numéros Moustache,Valise, Trompette, Eléphant, Lunette, Ampoule, Pomme, Lettre, etc...
+
+*Entrez de plain-pied dans l’univers graphique de Georges !*
+
+La première partie de l’exposition invite *à entrer dans l’univers contemporain et vintage de l’appartement de Georges.* Le jeu et le graphisme s’interpellent autour des meubles de la cuisine à colorier à la craie, de la tapisserie de la chambre à décorer ou encore du mur du salon sur lequel on joue avec l’aide de cartes-lettres.
+
+L’exposition propose ensuite de *se plonger dans un magazine en suivant le sommaire d’un numéro : les Histoires, les Jeux et les Rubriques-à-Brac.* L’exposition présente les travaux d’une trentaine d’illustrateurs et graphistes ayant participé au magazine depuis le Numéro Moustache :Tom Schamp, Séverin Millet, Aurélie Guillerey, Marie Novion, Cruschiform, Didier Cornille, Steffie Brocoli, Lily Scratchy, Fabrice Houdry...
+
+*« Playground posters », des affiches à jouer* à retrouver dans différents établissements du réseau Lire au Havre. « Playground posters » est une série d’affiches interactives, sérigraphiées et réalisées par dix illustrateurs ayant collaboré au magazine Georges. Chaque illustrateur propose une affiche à observer pour jouer, retrouver la sortie du labyrinthe, dénicher les 7 différences, chercher l’intrus ou encore assembler les paires...
+
+C’est *Stéphanie Lasne,* directrice artistique et graphiste attitrée de Georges qui réalise cette année l’affiche pour le réseau Lire au Havre.
+-
+link: http://www.magazinegeorges.com/
+-

@@ -1,0 +1,25 @@
+title: Une kermesse graphique
+-
+date: Samedi 10 mai
+-
+place: Dans les jardins du Fort de Tourneville, rue du 329ème R.I.
+-
+schedule: Entrée libre de 14h à 19h 
+-
+info: 06 88 34 85 93
+-
+mail: papiermachine2012@gmail.com
+-
+lead:
+### L’association Papier Machine organise une kermesse graphique lors d’Une Saison Graphique 2014, samedi 10 mai, en clôture de la semaine de vernissages qui se tiendront du 5 au 10 mai. ###
+-
+content: 
+Papier Machine invite plusieurs ateliers de jeunes graphistes et artistes qui proposent des interventions ludiques en direction d’un public averti ou non. Les interventions s’organiseront autour des problématiques liées à la fabrication et à l’impression des images.
+
+En parallèle, nous revisiterons les jeux traditionnels de kermesse (chamboul’tout, passe-tête, jeu d’adresse...) afin de réactiver l’imaginaire collectif lié à ce rassemblement populaire et l’inscrire dans un contexte contemporain et créateur de lien social. Un pique-nique ou un goûter (en cours d’élaboration avec l’association Val Soleil) est prévu dans la journée pour permettre à chacun de faire une pause conviviale et gourmande. Par ailleurs, nous installerons un stand/shop regroupant les productions des ateliers invités, qui seront disponibles à la vente.
+
+Organisation : Collectif Papier Machine
+Ateliers et intervenants : Jean-Jacques Tachdjian, StudioBuro, Super Groupe, Le Cagibi, Le Livre Lunatique,Atelier Bingo, Papier Machine.
+Partenariat-médiation avec la classe de MANAA du Lycée Saint-Vincent de Paul
+Partenariat avec les élèves des classes menuiserie/agencement de Yann Louvel, au Lycée Perret, au Havre.
+Conception et réalisation des stands et du décor de la kermesse graphique.

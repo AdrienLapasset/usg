@@ -1,0 +1,31 @@
+<ul class="conferences title visible">
+	<h2 class="hidden">Conférences</h2>
+</ul>
+<ul class="evenements title visible">
+	<h2 class="hidden">Événements</h2>
+</ul>
+<ul class="expositions title visible">
+	<h2 class="hidden">Expositions</h2>
+</ul>
+foreach $root do
+	if $children do
+		foreach $children do
+			:project
+		endforeach
+	endif
+endforeach
+get "/agenda" do
+	:agenda
+end
+get "/edito" do
+	:page
+end
+get "/venir-au-havre" do
+	:venir
+end
+get "/credits" do
+	:credits
+end
+get "/presse" do
+	:presse
+end

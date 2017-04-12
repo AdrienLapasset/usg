@@ -1,0 +1,19 @@
+title: C'est affiché près de chez vous
+-
+date: Du mardi 6 mai au vendredi 27 juin
+-
+place: Galerie « La Consigne », Parvis de la Gare SNCF, Le Havre
+-
+schedule: Entrée libre du 9 mai au 27 juin  
+-
+info: Visites du mardi au samedi de 14h à 18h: 02 35 25 07 18
+-
+lead:
+### La Direction du graphisme / Ville de Chaumont propose l’exposition « C’est affiché près de chez vous », sélection d’affiches françaises 2013. ###
+-
+content: 
+*L’exposition présente 17 affiches originales créées en France au cours des trois dernières années.* Conçue pour voyager, sa présentation est adaptée à la plupart des lieux d’accueil : musées, galeries et centre d’art, écoles, médiathèques, centres culturels. Il fut un temps où la culture française du graphisme n’avait qu’un nom et qu’un support : l’affiche. Être affichiste c’était être grand, seigneur et libre. Sur tous les tons, tous les sujets, de l’image au texte, du populaire à l’excellence. Faire l’affiche à la française permettait à la fois de réaliser son art et de tenir son rôle et son statut dans la société. Chaumont est né de tout cela, une collection d’affiches (anciennes, mais ayant peu servi) dynamis/tée par un festival d’affiches... Il s’agit de pointer les lieux de qualité du graphisme en France, honorer les graphistes et les commanditaires qui les font exister.
+
+Peu identifié du public et des institutions, le graphisme doit se doter d’un outil de reconnaissance et de visibilité comparable à l ‘équerre d’argent pour les architectes et le prix Goncourt pour la littérature.
+
+En contrepoint du Festival international de l’affiche et du graphisme, la sélection française est présentée dans plusieurs lieux, en France. Elle s’inscrit au Havre dans le cadre d’Une Saison Graphique 2014 pour une expérimentation (nécessaire) sur la transmission du graphisme et de ses enjeux. Le lycée Saint-Vincent-de-Paul est le relai pour organiser et présenter cette exposition.

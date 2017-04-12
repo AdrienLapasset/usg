@@ -1,0 +1,33 @@
+<ul id="@slug" foreach $parent do class="@slug endforeach if @conference do conferences endif visible" data-title="@title">
+	<article>
+		<div class="content hidden">
+			@content
+			if @link do
+			  <p>
+			  	<a href="@link" target=_blank>@link</a>
+			  if @link2 do
+			    </br>
+			  	<a href="@link2" target=_blank>@link2</a>
+			  endif
+			  </p>
+			endif
+		</div>
+		if @lead do
+		<div class="lead hidden">@lead</div>
+		endif
+	</article>
+	<aside>
+		:information
+	</aside>
+	if $images do
+	<figure>
+		foreach $images[3:] do	
+			<a href="#@slug"><img  class="hidden" data-title="@title" src="@url"></a>
+		endforeach
+		foreach $images[:3] do	
+		<a href="#@slug"><img  class="thumb visible" data-title="@title" src="@url"></a>
+		endforeach
+	</figure>
+	endif
+	<h2 class="hidden">@title</h2>
+</ul>

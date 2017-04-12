@@ -1,0 +1,31 @@
+<ul id="@slug" class="visible">
+	<article>
+		if @content3 do
+			<div class="content hidden">@content3</div>
+		endif
+		if @content2 do
+			<div class="content hidden">@content2</div>
+		endif
+		<div class="content hidden">
+			@content
+			if @link do
+				<a href="@link" target=_blank>@link</a>
+				if @link2 do
+			    </br>
+			  	<a href="@link2" target=_blank>@link2</a>
+			  	endif
+			endif
+		</div>		
+		if @lead do
+			<div class="lead hidden">@lead</div>
+		endif
+	</article>
+	if $images do
+		<figure>
+			foreach $images do	
+			<img class="hidden" data-title="@title" src="@url">
+			endforeach
+		</figure>
+	endif
+	<h2 class="hidden">@title</h2>
+</ul>

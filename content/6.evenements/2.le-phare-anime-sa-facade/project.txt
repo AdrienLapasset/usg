@@ -1,0 +1,29 @@
+title: Le Phare anime sa façade
+-
+date: Samedi 24 mai
+-
+place: Le Phare, CCN du Havre Haute-Normandie 30 rue des Briquetiers
+-
+schedule: A partir de 18h30  
+-
+info: Information et réservation au 02 35 26 23 00 ou par mail
+-
+mail: contact@lephare-ccn.fr
+-
+lead:
+### Le Phare, Centre Chorégraphique National du Havre Haute-Normandie, inaugurera sa nouvelle façade le samedi 24 mai 2014 dans le cadre d’Une Saison Graphique 14 ! ###
+-
+content: 
+Œuvre pérenne conçue par Anette Lenz à l’origine du projet artistique et Nicolas Galinotti, concepteur du dispositif numérique, cette nouvelle façade confère au Phare une visibilité accrue dans l’espace urbain ainsi qu’une identité graphique affirmée.
+
+« Le Phare, signe lumineux qui rayonne au lointain, a inspiré mon approche pour l’ensemble des éléments de son identité graphique. Ce projet a été rendu possible grâce à la confiance et la complicité ar tistique d’Emmanuelle Vo-Dinh et Solenne Racapé, ainsi qu’à l’ensemble de l’équipe dynamique du Phare.
+
+Le graphisme, à mon sens, est un regard, une approche, une lecture conceptuelle appliquée. La façade est du graphisme en espace. Le challenge était de créer un signe fort, expérimental, en introduisant des dispositifs numériques novateurs pour un jeu de mouvement et d’éclairage subtils.
+
+Cette réalisation s’inscrit dans la continuité de l’identité du Phare. Je suis heureuse d’investir ainsi les différents supports de communication du Centre Chorégraphique National du Havre Haute-Normandie. Que ce projet prenne place au Havre n’est pas un hasard. Depuis plusieurs années, la saison graphique initie une sensibilisation au graphisme... »
+-Anette Lenz
+
+La façade du Phare a pu être réalisée grâce à une subvention exceptionnelle de la DRAC Haute-Normandie / Ministère de la culture et de la communication.
+-
+link: http://www.lephare-ccn.fr/
+-

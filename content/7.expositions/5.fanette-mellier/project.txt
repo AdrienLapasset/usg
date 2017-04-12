@@ -1,0 +1,29 @@
+title: Fanette Mellier
+-
+date: Du mardi 6 mai au vendredi 27 juin
+-
+place: Galerie 65 de l’ESADHaR, École Supérieure d’Art et Design Le Havre-Rouen, 65 rue Demidoff
+-
+schedule: Entrée libre du lundi au vendredi, de 14h à 18h  
+-
+info: Renseignements: 02 35 53 30 31
+-
+conference: <div class="first hidden">
+	    <b>Conférence</b>
+	    <hr/>
+	    <p class="schedule">Vendredi 9 mai à 17h30</p>
+	    <p class="place">Maison de l’Étudiant, 50 rue Jean-Jacques Rousseau - Salle Raymond Queneau</p>
+	    <p class="place">Entrée libre</p>
+	    </div>
+-
+lead:
+### Un alphabet. Vingt-six lettrages, originaux et hétéroclites, matérialisés par vingt-six objets éditoriaux (de différents formats, chacun doté d’une technique d’impression). 26000 lettres-objets. ###
+-
+content: 
+Fanette Mellier pour sa participation à la Saison Graphique a décidé de revenir au dessin de caractères, en conférant à chacune des vingt-six lettres de notre alphabet, une ampleur par son empreinte formelle comme dans son incarnation (le papier, l’encre, la pagination, le recto, le verso). La méthodologie de travail que la graphiste a déployé pour contenir la démesure de son projet témoigne de son impératif d’explorer le design graphique comme un champ exhaustif d’expérimentation enserré dans une économie et technologie contemporaines et de restituer la richesse des collaborations. Les lettres seront réalisées par des commanditaires, fournisseurs ou partenaires : l’imprimeur Art & caractère, l’Imprimerie Nationale, Le Lézard Graphique, Fotokino et d’autres Nory, Après-Midi-Lab, Newspaper club... Une lettre sera élaborée au sein de l’école dans l’atelier de Yann Owens.
+
+La Galerie de l’école se transformera en une boîte aux lettres en perpétuelle recomposition, où par endroits, des pangrammes écrits par Vincent Vauchez et mis en scènes par le scénographe Olivier Vadrot « twisteront » avec des espaces où les visiteurs pourront à loisir composer un abécédaire, un pangramme, un mot, une étrangeté éditoriale. L’exposition offre le temps de la manipulation. Pour ses « livres bizarres », comme dans l’espace public, Fanette Mellier a toujours soumis ses typographies au plaisir des jeux de mots et des belles lettres.
+
+L’an passé, la graphiste française, encore en résidence à Rome à la Villa Médicis, libérait un papillon dans les artères linéaires du Havre pour annoncer l’exposition Un Imprimeur, aujourd’hui, elle imagine, avec rigueur et poésie, une immersion dans la matière délirante des mots.
+-
+link: http://www.fanettemellier.com/

@@ -1,0 +1,20 @@
+if @mail do
+    <div class="third hidden">
+        <p class="mail"><a href="mailto:@mail" target="_blank">@mail</a></p>
+    </div>
+endif
+if @conference do @conference endif
+<div class="second hidden">
+    if @schedule do
+    <p class="schedule">@schedule</p>
+    endif
+    if @info do
+    <hr>
+    <p class="info">@info</p>
+    endif
+</div>
+<div class="first hidden">
+    <p class="date">@date</p>
+    <hr>
+    <p class="place">@place</p>  
+</div>

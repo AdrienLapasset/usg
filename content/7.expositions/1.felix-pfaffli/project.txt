@@ -1,0 +1,28 @@
+title: Felix Pfäffli
+-
+date: Du mardi 6 mai au vendredi 14 juin
+-
+place: Le Carré du Théâtre de l’Hôtel de Ville - Esplanade Jacques Tournant
+-
+schedule: Entrée libre du mardi au samedi de 12h45 à 18h30, le mercredi de 9h30 à 11h30 
+-
+info: Renseignements : 02 35 19 45 74
+-
+lead:
+### Invité du Carré du THV cette année, le jeune designer graphique suisse Felix Pfâffli bénéficie déjà d’une très large reconnaissance internationale, grâce à une production riche et d’une insolente maturité. Une touche de pop dans la tradition suisse. ###
+-
+content: 
+Diplômé de l’Université des Sciences et des Arts appliqués de Lucerne en 2010, Felix Pfäffli décide aussitôt de fonder son propre studio. Ses premières commandes lui permettent de développer très vite une parfaite maîtrise des techniques de conception et d’impression étudiées dans le cadre de son diplôme. Passionné par le processus qui conduit à la réalisation, plus que la réalisation elle-même, il a développé en quatre ans une production foisonnante qui semble vouloir explorer en accéléré toutes les possibilités actuelles du design graphique : affiches, animation, design éditorial, typographie, design textiles, etc.
+
+*Mais ce sont incontestablement ses affiches qui ont retenu l’attention du public et des professionnels dès lors qu’elles ont commencées à être sélectionnées dans les manifestations de graphisme.* Par ses jeux à la fois précis et libres autour de formes simplifiées, d’ancrages typographiques et de couleurs tranchées, il parvient, dans des formats souvent réduits, à produire des images simples et économes mais qui frappent le public par une force visuelle et un pouvoir d’attraction singuliers. Ses commanditaires sont principalement des institutions culturelles, des Festivals, mais également la presse écrite spécialisée ou la mode.
+
+Pour le théâtre Südpol de Luzern, un de ses principaux commanditaires, il conçoit un système graphique d’apparence simple et peu flexible. Mais il parvient à déjouer en permanence la rigueur de cette règle par un travail de contraintes et de recherche autour des projets qui le conduisent à produire des visuels dont la liberté formelle permanente forme un contrepoint parfait à la rigueur du cadre défini au départ.
+
+L’exposition réalisée dans le cadre d’Une Saison Graphique 14 s’attachera à présenter au public le processus qui conduit à la conception d’une affiche : les dessins préparatoires et les états intermédiaires à côté des travaux finalisés.
+
+Felix Pfäffli enseigne à la Hochschule Luzern - Design & Kunst depuis 2011. Il est membre de l’Alliance Graphique Internationale (AGI) depuis 2013.
+-
+link: http://www.feixen.ch/
+-
+link2: http://sudpol-plakate.blogspot.fr/
+-
